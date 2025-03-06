@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React,Node.js,react native**
 
-- 👨‍💻 All of my projects are available at [https://akhilyadav0789.github.io/portfolio/](https://akhilyadav0789.github.io/portfolio/)
+- 👨‍💻 All of my portfolio website is [https://akhilyadav0789.github.io/portfolio/](https://akhilyadav0789.github.io/portfolio/)
 
 - 💬 Ask me about **react**
 
